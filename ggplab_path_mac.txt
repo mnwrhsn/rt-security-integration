@@ -1,0 +1,3 @@
+% add GGPLAB to MATLAB path
+folderName = fullfile(matlabroot,'toolbox','ggplab');
+addpath(genpath(folderName));
